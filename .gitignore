@@ -1,6 +1,17 @@
 
 # Project specific files
 
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
 
 # Editor preference files
 .env
@@ -16,7 +27,6 @@
 *.espressostorage
 
 # Other
-
 *.diff
 .DS_Store
 Thumbs.db
