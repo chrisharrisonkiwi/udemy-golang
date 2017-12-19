@@ -1,0 +1,23 @@
+
+# Project specific files
+
+
+# Editor preference files
+.env
+.svn
+.project
+.settings
+.idea
+*.sublime-workspace
+*.sublime-project
+*.komodoproject
+.komodotools
+*.esproj
+*.espressostorage
+
+# Other
+
+*.diff
+.DS_Store
+Thumbs.db
+/.buildpath
