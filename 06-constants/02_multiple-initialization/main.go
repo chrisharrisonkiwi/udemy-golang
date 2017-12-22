@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const (
-	pi = 3.14
+	pi       = 3.14
 	language = "Go"
 )
 

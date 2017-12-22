@@ -14,7 +14,7 @@ func main() {
 	for i := 1; i <= 5; i++ {
 
 		// note: parentheses are optional in Go. You could, if (i%2 == 1) { but why add code...
-		if i % 2 == 1 {
+		if i%2 == 1 {
 			fmt.Println("Odd")
 		} else {
 			fmt.Println("Even")

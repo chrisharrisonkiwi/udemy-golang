@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	a := 43  // store a value
+	a := 43 // store a value
 
 	fmt.Println(a)  // print the value
 	fmt.Println(&a) // print the stored memory address

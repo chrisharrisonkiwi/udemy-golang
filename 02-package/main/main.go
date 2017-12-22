@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Udemy/02-package/stringutil"
 	myAlias "github.com/Udemy/02-package/icomefromnz"
+	"github.com/Udemy/02-package/stringutil"
 )
 
 func main() {
